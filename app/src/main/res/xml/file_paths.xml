@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  The file_paths.xml file is used by the FileProvider to specify the file paths that can be accessed by other apps.  -->
+<paths>
+    <external-path
+        name="my_images"
+        path="Android/data/com.example.camera3/files/Pictures"/>
+</paths>
